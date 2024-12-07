@@ -1,0 +1,4 @@
+# Ignore sage directory
+/sage/
+/trash/
+/data/

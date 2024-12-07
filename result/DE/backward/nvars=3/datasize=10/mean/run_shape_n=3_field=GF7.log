@@ -1,0 +1,5 @@
+True None 92 555 0.003790140151977539
+> /app/src/de_algo_for_backward.sage.py(184)<module>()
+-> bounds = [(_sage_const_0 , upper)] * nvars + [(lower, upper)] * (nvars ** _sage_const_2  - nvars)
+(Pdb) --KeyboardInterrupt--
+(Pdb) 

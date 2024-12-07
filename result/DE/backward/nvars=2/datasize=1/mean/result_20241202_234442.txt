@@ -1,0 +1,23 @@
+Date: 20241202_234442
+
+updating: immediate
+operation: mean
+nvars: 2
+dataset_size: 1
+upper_bound: 1000
+lower_bound: -1000
+buchberger_threshold: 1000000
+
+
+success: True
+message: Optimization terminated successfully.
+fun: 15.0
+nit: 11
+nfev: 725
+population size: 60
+elapsed time : 00:02:05 [HH:MM:SS]
+
+x: [778.1707508695252, 76.43979376510003, -505.3931376917756, -550.9412351255119]
+
+x: [778, 76, -505, -550]
+
